@@ -10,7 +10,7 @@
      <COMPONENT>SAP_BASIS</COMPONENT>
      <MIN_RELEASE>753</MIN_RELEASE>
     </item>
-   </REQUIREMENTS> 
+   </REQUIREMENTS>
   </DATA>
  </asx:values>
 </asx:abap>
